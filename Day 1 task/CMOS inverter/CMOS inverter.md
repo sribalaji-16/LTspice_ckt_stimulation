@@ -22,3 +22,10 @@ After configuring all stuff
 
 ![Screenshot 2024-09-14 035641](https://github.com/user-attachments/assets/517e04e6-cd10-48b6-aafd-d650cc43d193)
 
+Running CMOS inverter
+
+![Screenshot 2024-09-14 035815](https://github.com/user-attachments/assets/015b40a1-aaca-4774-af48-71981a8dae84)
+
+![Screenshot 2024-09-14 035827](https://github.com/user-attachments/assets/c5dd4210-1fc0-42c2-9bc3-cbd61cf3b33e)
+
+![Screenshot 2024-09-14 035851](https://github.com/user-attachments/assets/ba20112d-fde8-4315-a40d-57ac9b2783fe)
