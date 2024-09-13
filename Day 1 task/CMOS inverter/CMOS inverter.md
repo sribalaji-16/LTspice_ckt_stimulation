@@ -29,3 +29,5 @@ Running CMOS inverter
 ![Screenshot 2024-09-14 035827](https://github.com/user-attachments/assets/c5dd4210-1fc0-42c2-9bc3-cbd61cf3b33e)
 
 ![Screenshot 2024-09-14 035851](https://github.com/user-attachments/assets/ba20112d-fde8-4315-a40d-57ac9b2783fe)
+
+![image](https://github.com/user-attachments/assets/5ec7ea84-9da7-407b-b1da-2221c78cce79)
