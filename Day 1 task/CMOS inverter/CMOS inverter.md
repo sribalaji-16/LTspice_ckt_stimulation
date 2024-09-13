@@ -1,4 +1,4 @@
-CMOS Inverter
+# CMOS Inverter
 
 Here A is given as Input , Y as Output where 
 
