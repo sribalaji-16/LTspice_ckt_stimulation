@@ -17,13 +17,13 @@ Here A and B are inputs , Y is output
 
 ![image](https://github.com/user-attachments/assets/f6014be0-d283-404d-913e-ffdebe2b7962)
 
-# Defining Voltage for V1
+# Defining Voltage for V1(i.e Input A)
 
 ![image](https://github.com/user-attachments/assets/5d913c70-99d6-4140-a1ad-4b92b66ed569)
 
 ![image](https://github.com/user-attachments/assets/838c4a35-81b5-411a-9604-eb77c11ad9c5)
 
-# Defining Voltage for V2
+# Defining Voltage for V2(i.e Input B)
 
 ![image](https://github.com/user-attachments/assets/b24c1e8b-214f-46d0-a212-d39898dbaeee)
 
