@@ -29,3 +29,8 @@ Here A and B are inputs , Y is output
 
 ![image](https://github.com/user-attachments/assets/56c4d9b3-07b9-4e59-a3f5-f9d905035f93)
 
+# Configuring analysis
+
+![image](https://github.com/user-attachments/assets/920b0250-7b7c-455b-b12b-6ed8bbca4fd3)
+
+![image](https://github.com/user-attachments/assets/91cbd298-1c10-43dc-a948-54695b3fa805)
