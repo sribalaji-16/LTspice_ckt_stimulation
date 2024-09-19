@@ -1,5 +1,5 @@
 # NAND
-
+ 
 Ckt level stimulation for NAND
 Where here V3 is the voltage source given as Vdd to ckt,
 V1 and V2 are the voltage source given with inputs
