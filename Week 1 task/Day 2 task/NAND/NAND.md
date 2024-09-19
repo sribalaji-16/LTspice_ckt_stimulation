@@ -34,7 +34,7 @@ Here A and B are inputs , Y is output
 ![image](https://github.com/user-attachments/assets/920b0250-7b7c-455b-b12b-6ed8bbca4fd3)
 
 ![image](https://github.com/user-attachments/assets/91cbd298-1c10-43dc-a948-54695b3fa805)
-
+ 
 # Running Output 
 
 ![image](https://github.com/user-attachments/assets/33c02265-565c-4ff0-83b8-15344e529815)
