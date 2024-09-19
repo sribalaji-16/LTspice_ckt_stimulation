@@ -26,7 +26,7 @@ Here A and B are inputs , Y is output
 # Defining Voltage for V2(i.e Input B)
 
 ![image](https://github.com/user-attachments/assets/b24c1e8b-214f-46d0-a212-d39898dbaeee)
-
+ 
 ![image](https://github.com/user-attachments/assets/56c4d9b3-07b9-4e59-a3f5-f9d905035f93)
 
 # Configuring analysis
