@@ -7,7 +7,7 @@ V1 and V2 are the voltage source given with inputs
 ![Screenshot 2024-09-15 084621](https://github.com/user-attachments/assets/fe0e25cb-b203-4dc4-9847-a689c7d44e16)
 
 # Giving inputs and output
-Here A and B are inputs , Y is output
+Here A and B are inputs , Y is output 
 
 ![image](https://github.com/user-attachments/assets/5b8ccc81-3fef-4c2c-a143-cb7cb5772760)
 
