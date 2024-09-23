@@ -12,7 +12,7 @@ Configuring voltage source V1
   
 Configuring voltage source V2 (Vdd)  
   
-![Screenshot 2024-09-14 035443](https://github.com/user-attachments/assets/2d892dfd-ccb5-495d-8009-af4abb1f1b72)
+![Screenshot 2024-09-14 035443](https://github.com/user-attachments/assets/2d892dfd-ccb5-495d-8009-af4abb1f1b72) 
  
 Configure analysis (i.e defined stop time as 100ms) 
  
